@@ -1,0 +1,18 @@
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\bin\Debug\Sine.exe.config
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\bin\Debug\Sine.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\bin\Debug\Sine.pdb
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\obj\Debug\Sine.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\obj\Debug\Sine.Form1.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\obj\Debug\Sine.Properties.Resources.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\obj\Debug\Sine.csproj.GenerateResource.Cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\obj\Debug\Sine.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\Sine\Sine\obj\Debug\Sine.pdb
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\bin\Debug\Sine.exe.config
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Debug\Sine.exe
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Debug\Sine.pdb
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\bin\Debug\Sine.exe
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\bin\Debug\Sine.pdb
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Debug\Sine.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Debug\Sine.Form1.resources
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Debug\Sine.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Debug\Sine.csproj.GenerateResource.Cache

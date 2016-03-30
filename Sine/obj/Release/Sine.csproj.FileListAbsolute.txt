@@ -1,0 +1,8 @@
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\bin\Release\Sine.exe.config
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\bin\Release\Sine.exe
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\bin\Release\Sine.pdb
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Release\Sine.Form1.resources
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Release\Sine.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Release\Sine.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Release\Sine.exe
+C:\Users\Daemon\Documents\GitHub\GenSine\Sine\obj\Release\Sine.pdb
